@@ -1,0 +1,12 @@
+{
+  "name": [
+    {
+      "first": "zh",
+      "last": "Xia"
+    }
+  ],
+  "fromWisconsin": false,
+  "numCrediets": 25,
+  "major": "Computer Science",
+  "interests": ["LLM", "Web Development", "Machine Learning"]
+}
