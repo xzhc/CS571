@@ -1,0 +1,7 @@
+# Ignore solution folders
+**/solution/
+
+# Keep existing gitignore rules from the project
+node_modules/
+.env
+.DS_Store
